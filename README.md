@@ -35,6 +35,7 @@ To add, remove or change things on the list:
 ## YouTube Channels for DevOps
 | Channel Name | Description |
 | ------------ | ----------- |
+| [Technical Guftgu]( https://www.youtube.com/@TechnicalGuftgu) | This channel is related to DevOps,Cloud Services like AWS,Azure,Google cloud |
 | [Tech World With Nana]( https://www.youtube.com/@TechWorldwithNana) | Various Devops Tutorials at one place |
 | [Hitesh Choudhary]( https://www.youtube.com/@HiteshChoudharydotcom) |Crisp Tutorials on devops |
 | [Train With Shubham]( https://www.youtube.com/@TrainWithShubham) |Good for project reference|
